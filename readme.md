@@ -56,10 +56,9 @@ SOFTWARE.
 
 ## Contact Information
 
-Noah Woodrum heymymomthinksimcool@gmail.com# Test suite
-Describe: BeepBoop()
+Noah Woodrum heymymomthinksimcool@gmail.com
+# Test suite
+* allows user to select radio buttons to determine price for pizza
+* different radio buttons give different price
 
-Test: If number contains "1" it returns "beep"
-Code: BeepBoop(1)
-Expected Output: "beep"
 
